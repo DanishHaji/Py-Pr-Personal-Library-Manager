@@ -34,7 +34,7 @@ cd library-manager
 
 2️⃣ **Run the Application**  
 ```bash
-streamlit run app.py
+streamlit run library_manager.py
 ```
 
 
